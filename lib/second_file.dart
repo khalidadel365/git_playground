@@ -1,1 +1,2 @@
 var secVariable ;
+var thirdVariable ;
